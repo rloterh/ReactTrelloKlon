@@ -1,2 +1,2 @@
-# ReactKanbanBoard
+# ReactTrelloClone
 Trello clone
